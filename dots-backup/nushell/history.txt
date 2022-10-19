@@ -1,0 +1,219 @@
+ls
+which {SHELL}
+which SHELL
+chsh
+nano /etc/shells
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo pkill picom
+picom --experimental-backends
+picom --experimental-backends glx
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+scrot
+bspc config border_radius 0.5
+pfetch
+pipes
+btop
+scrot
+ping google.com
+echo "profressor umbridge has a died a most painful death - dumbledore"
+ping google.com
+nmcli
+ranger
+bspc config focused
+bspc config --help
+bspc config 
+bspc config help
+bspc config active_border_color \#859845
+bspc config active_border_color #859845
+bspc config focused_border_color #859845
+glxinfo
+MESA_LOADER_DRIVER_OVERRIDE=crocus 
+bash -c MESA_LOADER_DRIVER_OVERRIDE=crocus firefox
+MESA_LOADER_DRIVER_OVERRIDE=crocus firefox
+sudo nano /etc/nixos/configuration.nix
+free -h
+sudo nixos-rebuild switch
+btop
+ping google.com
+ls
+ls | grep "Desktop"
+ls | grep "scrot"
+ls | grep "scrot" | rm -rf
+ls | grep "scrot" | rm 
+ls | rm -rf {} | grep "scrot"
+ls | rm -rf  | grep "scrot"
+rm -rf  grep "scrot"
+ls
+grep
+ping google.com
+ping xvideos
+ping reddit.com
+ping google.con
+ping google.co,
+ping google.com
+ping discord.com
+clr
+clear
+ls
+ping google.com
+glxinfo
+mesa
+MESA_LOADER_DRIVER_OVERRIDE=crocus firefox
+ping google.com
+MESA_LOADER_DRIVER_OVERRIDE=crocus firefox
+MESA_LOADER_DRIVER_OVERRIDE=crocus glxgears
+MESA_LOADER_DRIVER_OVERRIDE=crocus glxinfo
+free -h
+pfetch
+vainfo
+nix-shell -p vainfo
+nix-shell -p vaapiinfo
+sudo nixos-rebuild switch
+ls /etc/profile.d/intel.sh
+sudo nano /etc/nixos/configuration.nix
+nano .profile
+sudo nixos-rebuild switch
+sudo nano /etc/profile.d/intel.sh
+sudo nixos-rebuild switch
+nix-shell -p libva-utils
+nix-shell -p vulkan-utils
+nix-shell -p vulkaninfo
+free -h
+SCROT -S
+scrot -s
+nix-shell -p vulkan-tools
+nix-shell -p glxgears
+nix-shell -p glx-tools
+sudo pkill picom
+sudo picom --experimental-backends
+sudo pkill picom
+sudo picom --experimental-backends
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo pkill picom
+picom
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+picom
+sudo pkill picom
+picom
+pfetch
+scrot -s
+systemd-analyze
+scrot -s
+ls
+nano crocus_drv_video.so
+rm -rf crocus_drv_video.so
+glxinfo
+scrot -s
+scrot 
+pipes.sh
+free -h
+top
+cava
+pipes
+nvim
+cd .config
+ls
+cd neovim
+mkdir neovim
+cd neovim/
+feh --bg-scale ~/Pictures/Wallpapers/night.jpg
+feh --bg-scale ~/Pictures/Wallpapers/images.jpg
+ranger
+feh --bg-scale ~/Pictures/Wallpapers/night2.jpg
+cd ..
+cd bspwm/
+nano bspwmrc
+neofetch
+nano ~/.config/sxhkd/
+nano ~/.config/sxhkd/sxhkdrc
+kitty
+nano /etc/nixos/configuration.nix
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+nano ~/.config/sxhkd/sxhkdrc
+ls
+kitty
+nano /etc/nixos/configuration.nix
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+nano /etc/nixos/configuration.nix
+sudo nano /etc/nixos/configuration.nix
+ani-cli
+ani-cli oregairu
+sudo nixos-rebuild switch
+nixos seishun
+ani-cli  seishun
+mpv
+sudo ani-cli -U
+nix-channel --add https://nixos.org/channels/nixos-unstable nixos-unstable
+sudo nix-channel --update
+nano /etc/nixos/configuration.nix
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch
+sudo nano /etc/nixos/configuration.nix
+nix-channel
+nixos-rebuild switch --upgrade
+sudo nixos-rebuild switch --upgrade
+sudo nano /etc/nixos/configuration.nix
+sudo nixos-rebuild switch --upgrade
+sudo nixos-rebuild switch 
+ani-cli  seishun
+ani-cli --version
+ani-cli
+ani-cli version
+ani-cli -version
+sudo nix-channel --add https://nixos.org/channels/nixpkgs-unstable
+sudo nixos-rebuild switch --upgrade
+sudo nix-channel --update
+sudo nixos-rebuild switch --upgrade
+ani-cli
+git remote add origin https://github.com/HikariNee/nix-config.git
+mkdir dots-backup
+cd dots-backup/
+git init
+cd dots-backup/
+git remote add origin https://github.com/HikariNee/nix-config.git
+sudo cp /etc/nixos 
+sudo cp /etc/nixos *
+sudo cp /etc/nixos * -r
+ls
+sudo cp /etc/nixos* -r
+cd ..
+sudo cp /etc/nixos/* dots-backup/
+sudo cp ~/.config/ dots-backup/
+sudo cp ~/.config/ dots-backup/ -r
+sudo cp ~/Pictures/Wallpapers/* dots-backup/ -r
+cd dots-backup/
+ls
+rm -rf *
+cd ..
+sudo cp ~/Pictures/Wallpapers dots-backup/ -r
+sudo cp /etc/nixos  dots-backup/ -r
+sudo cp .config/  dots-backup/ -r
+cd dots-backup/
+ls
+sudo cp ~/.config/ dots-backup/ 
+sudo cp ~/.config/ dots-backup/ -r 
+ls
+cd dots-backup/
+ls
+cd ..
+mv dots-backup/ .config
+sudo mv dots-backup/ .config
+ls
+sudo mv dots-backup/ .config
+cd ..
+cd .config/
+ls
+cd ..
+cd dots-backup/
